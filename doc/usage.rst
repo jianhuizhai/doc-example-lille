@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+git clone git@github.com:jianhuizhai/doc-example-lille.git
 
 
 Make
