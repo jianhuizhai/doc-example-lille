@@ -1,4 +1,4 @@
-
+[![DOI](https://sandbox.zenodo.org/badge/224826207.svg)](https://sandbox.zenodo.org/badge/latestdoi/224826207)
 
 # Word count example
 
